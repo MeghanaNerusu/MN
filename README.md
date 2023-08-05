@@ -22,4 +22,4 @@ Our group encountered challenges while combining datasets to develop a predictiv
 Learnings in the project :
 
 The process of building the loan default prediction model provided valuable lessons in handling complex datasets, addressing class imbalances, and conducting feature engineering. Additionally, we learned about data preprocessing, feature selection, model evaluation metrics, ensemble methods, cross-validation, interpretability techniques, and business impact analysis. These insights will guide our future endeavors, enhancing our ability to apply data science and machine learning effectively to diverse business challenges.
-![image](https://github.com/MeghanaNerusu/MN/assets/122567950/80700fbc-2f35-4437-84b9-9a98963d7145)
+
